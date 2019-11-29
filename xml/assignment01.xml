@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<news>
+    <categories-head>
+        <category-name>Tin tức trong ngày</category-name>
+        <category-name>Tin Hà Nội</category-name>
+        <category-name>Tin TP.HM</category-name>
+        <category-name>Tin thời tiết</category-name>
+    </categories-head>
+    <categories-body>
+        <hot-news>
+            <title>Vụ 39 người tử vong: Đại sứ Anh lên tiếng sau khi 16 nạn nhân được đưa về nước</title>
+            <image></image>
+            <description>Đại sứ Anh tại Việt Nam cho biết, trong thời gian tới, ông sẽ tới thăm những địa phương có nạn nhân để chia buồn</description>
+            <related-news>39 công dân chết trong xe container ở...</related-news>
+        </hot-news>
+        <latest-news>
+            <title>Nguyên Phó Bí thư huyện ủy viết thư yêu cầu được bảo...</title>
+            <title>Điện thoại phát nổ khi vừa dùng vừa sạc, nam thanh...</title>
+            <title>2 xe tải đâm nhau khing hoàng, 3 tài xế bị thương nặng...</title>
+            <title>Vụ 3 học sinh bị xe đưa rước "đánh rơi": Hiệu...</title>
+            <title>Nga: Nữ cảnh sát xinh đẹp tự sát khi bị ép làm...</title>
+        </latest-news>
+    </categories-body>
+</news>
